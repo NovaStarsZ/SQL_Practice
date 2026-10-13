@@ -9,6 +9,7 @@
 1. Удалить базу данных beer_suppliers. <br> Используемая команда: `DROP DATABASE`
 
 ![Изображение](https://i128.fastpic.org/big/2026/1013/cd/069ec76ee93646b3f9814624d4c4d3cd.png)
+
 2. Создать новую базу данных flowers. <br> Используемая команда: `CREATE DATABASE`
 
 ![Изображение](https://i128.fastpic.org/big/2026/1013/2e/f4f574877ed206304d70a26a20c5f32e.png)
